@@ -1,2 +1,2 @@
-# exercicios-em-c
-Praticando algoritmos em linguagem C com listas de exercicios 
+# Exercicios-em-c
+Lista de algoritmos em linguagem C com listas de exercicios 
