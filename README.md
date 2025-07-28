@@ -1,5 +1,5 @@
 # Exercicios-em-c
-Lista de algoritmos em linguagem C que abordam ...
+Lista de algoritmos em linguagem C que abordam: Entrada e Saída, tipos de dados, Estrtuturas de Repetição e decisão, vetores(unidimensional), matrizes (bidemensionais), strings e manipulação de texto, tratamentos de caracteres, Ponteiros e endereçamento de memória, passagem por referencia de meméria, modularizações ,ordenação, bibliotecas e manipulação de arquivos 
 
 Feitos na FATEC Santana de Parnaiba durante para a aula de Estrutura de Dados e Lógica de Programação
 
