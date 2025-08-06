@@ -56,4 +56,4 @@ Lista de Enunciados:
 <p>31 - Algoritmo que reajusta os salarios com base em parametros</p>
 <p>32 - Algoritmo que calcula a potencia, o cubo, raiz quadrada e finaliza com 0</p>
 
-Se sintam a vontade para poder copiar, modificar e incrementar aos códigos! e aos que quiser lecionar usandos alguns dessses exercicios favor ensinar seu alunos o conteúdo antes. (>‿◠)✌!
+Se sintam a vontade para poder copiar, modificar e incrementar aos códigos! e aos professores que quiserem lecionar usandos alguns dessses exercicios favor ensinar seu alunos o conteúdo antes. (>‿◠)✌!
